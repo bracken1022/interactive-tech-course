@@ -54,3 +54,7 @@ cp -r assets/starter my-course
 node scripts/build.js my-course
 cd my-course && node ../scripts/check.js dist/index.html
 ```
+
+## 许可证
+
+[MIT](LICENSE)：可以自由使用、修改和分发，保留版权和许可声明即可。用它做出来的课程内容归课程作者所有。
