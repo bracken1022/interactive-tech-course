@@ -1,0 +1,9 @@
+{
+ "title": "示例课程 · 互动课程",
+ "brand": "示例",
+ "brandAccent": "互动课程",
+ "subtitle": "订单系统场景 · 故障驱动学习 · 离线可用",
+ "series": "订单系统场景",
+ "storageKey": "example-course-v1",
+ "footer": "本课程为单个 HTML 文件，离线可用。答题进度只保存在本浏览器中。"
+}

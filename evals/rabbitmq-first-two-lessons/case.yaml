@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: rabbitmq-first-two-lessons
+expected_outcome: |
+  A single HTML course with 2 lessons on RabbitMQ for beginners: lesson 1 motivates message queues from a concrete synchronous-call failure, lesson 2 explains exchanges and routing (direct / topic / fanout). Each lesson has interactive animated scenes the learner can operate, a knowledge review and a scenario quiz with an explanation. The page opens offline, has no console errors and no overlapping labels.

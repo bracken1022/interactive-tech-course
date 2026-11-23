@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: lambda-cold-start-lesson
+expected_outcome: |
+  A single offline HTML page with one interactive lesson on AWS Lambda cold starts and concurrency limits (provisioned concurrency, reserved concurrency, throttling). The learner can press buttons to trigger traffic spikes or change settings and see cold starts / throttles in an animated scene; the lesson ends with a quiz that has an explanation. Technically accurate, no console errors, no overlapping labels.
